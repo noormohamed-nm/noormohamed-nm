@@ -25,10 +25,4 @@
 In my repository
 ---
 
-## 📈 GitHub Stats
-
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=noormohamed-nm&show_icons=true&theme=radical)
-
----
-
 _Thanks for visiting! Let’s build something extraordinary._
