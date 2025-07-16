@@ -6,7 +6,7 @@
 🌱 Actively learning **Artificial Intelligence**, **Data Science**, and **Machine Learning**  
 ⚙️ Hands-on with projects in **Python, Java, SQL, Frontend Development**, and **Automation**
 
-📫 **Let’s connect on [LinkedIn](https://www.linkedin.com/in/YOUR-LINKEDIN-HANDLE)**  
+📫 **Let’s connect on [LinkedIn](www.linkedin.com/in/noor-mohammed-65485a312)**  
 🌌 **Hobbies**: Space science, football, and solving logic puzzles
 
 ---
