@@ -6,7 +6,7 @@
 🌱 Actively learning **Artificial Intelligence**, **Data Science**, and **Machine Learning**  
 ⚙️ Hands-on with projects in **Python, Java, SQL, Frontend Development**, and **Automation**
 
-📫 **Let’s connect on [LinkedIn](www.linkedin.com/in/noor-mohammed-65485a312)**  
+📫 **Let’s connect on [LinkedIn](https://www.linkedin.com/in/noor-mohammed-65485a312)**  
 🌌 **Hobbies**: Space science, football, and solving logic puzzles
 
 ---
@@ -22,9 +22,7 @@
 
 ## 📂 Featured Projects
 
-- 🔒 **LinkedIn Stealth Automation** – Python-powered automation using `undetected-chromedriver`
-- 🚀 [Add more project links here for impact]
-
+In my repository
 ---
 
 ## 📈 GitHub Stats
@@ -34,4 +32,3 @@
 ---
 
 _Thanks for visiting! Let’s build something extraordinary._
-
