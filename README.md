@@ -2,7 +2,7 @@
 
 🎯 **Aspiring Software Engineer | Python Developer | AI & ML Enthusiast**
 
-💡 Currently pursuing a **B.E. in Computer Science** at *T.J.S engineering college, Chennai*  
+💡 Graduate in **B.E. in Computer Science** at *T.J.S engineering college, Chennai*  
 🌱 Actively learning **Artificial Intelligence**, **Data Science**, and **Machine Learning**  
 ⚙️ Hands-on with projects in **Python, Java, SQL, Frontend Development**, and **Automation**
 
